@@ -8,7 +8,7 @@ Quickstart
 
 2. Unzip one of the demo zip files (produces a .niogit directory containing the demo repo).
 
-3. Place into a clean JBoss BPM Suite installation as the .niogit repository.
+3. Place into a clean JBoss BPM Suite installation (link to easy installation project below) as the .niogit repository.
 
 4. Start JBoss BPMS Server by running 'standalone.sh' or 'standalone.bat' in the <path-to-project>/target/jboss-eap-6.1/bin directory.
 
@@ -19,8 +19,9 @@ Quickstart
 Supporting Articles
 -------------------
 
-[Red Hat JBoss BPM Suite - Automated Lending with a Generic Loan Demo] (http://www.schabell.org/2013/11/jboss-bpm-suite-automated-lending-generic-loan-demo.html)
+[Red Hat JBoss BPM Suite - accessing process context variables from a rule] (http://www.schabell.org/2014/02/redhat-jboss-bpmsuite-access-update-procvar-from-rule.html)
 
+[Get fully automated JBoss BPM Suite installation project here] (https://github.com/eschabell/bpms-install-demo)
 
 Released versions
 -----------------
