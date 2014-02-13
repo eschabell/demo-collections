@@ -19,9 +19,9 @@ Quickstart
 Supporting Articles
 -------------------
 
-[Red Hat JBoss BPM Suite - accessing process context variables from a rule] (http://www.schabell.org/2014/02/redhat-jboss-bpmsuite-access-update-procvar-from-rule.html)
+[Red Hat JBoss BPM Suite - accessing process context variables from a rule (niogit-rule-procvar.zip)] (http://www.schabell.org/2014/02/redhat-jboss-bpmsuite-access-update-procvar-from-rule.html)
 
-[Get fully automated JBoss BPM Suite installation project here] (https://github.com/eschabell/bpms-install-demo)
+[Get fully automated JBoss BPM Suite installation project (bpms-install-demo)] (https://github.com/eschabell/bpms-install-demo)
 
 Released versions
 -----------------
