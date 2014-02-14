@@ -20,7 +20,7 @@ Quickstart
 Supporting Articles
 -------------------
 
-[Red Hat JBoss BPM Suite - how to change runtime session strategy (niogit-rule-procvar-perinstance-strategy.zip)] ()
+[Red Hat JBoss BPM Suite - how to change runtime session strategy (niogit-rule-procvar-perinstance-strategy.zip)] (http://www.schabell.org/2014/02/redhat-jboss-bpmsuite-howto-change-runtime-strategy.html)
 
 [Red Hat JBoss BPM Suite - accessing process context variables from a rule (niogit-rule-procvar.zip)] (http://www.schabell.org/2014/02/redhat-jboss-bpmsuite-access-update-procvar-from-rule.html)
 
