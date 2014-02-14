@@ -16,17 +16,27 @@ Quickstart
 
 6. The demo project should be available pre-loaded.
 
+
 Supporting Articles
 -------------------
 
+[Red Hat JBoss BPM Suite - how to change runtime session strategy (niogit-rule-procvar-perinstance-strategy.zip)] ()
+
 [Red Hat JBoss BPM Suite - accessing process context variables from a rule (niogit-rule-procvar.zip)] (http://www.schabell.org/2014/02/redhat-jboss-bpmsuite-access-update-procvar-from-rule.html)
 
+
+Helper installation project
+---------------------------
+
 [Get fully automated JBoss BPM Suite installation project (bpms-install-demo)] (https://github.com/eschabell/bpms-install-demo)
+
 
 Released versions
 -----------------
 
 See the tagged releases for the following versions of the product:
+
+- v0.2 - added niogit-rule-procvar-perinstance-strategy.zip (demo of rule accessing and changing process variable).
 
 - v0.1 - added niogit-rule-procvar.zip (demo of rule accessing and changing process variable).
 
