@@ -8,7 +8,7 @@ Quickstart
 
 2. Unzip one of the demo zip files (produces a .niogit directory containing the demo repo).
 
-3. Place into a clean JBoss BPM Suite installation (link to easy installation project below) as the .niogit repository.
+3. Place into a clean JBoss BPM Suite installation (link to easy installation project below) as <path-to-project>/target/jboss-eap-6.1/bin/.niogit repository.
 
 4. Start JBoss BPMS Server by running 'standalone.sh' or 'standalone.bat' in the <path-to-project>/target/jboss-eap-6.1/bin directory.
 
